@@ -1,0 +1,6 @@
+["trigger", "./", {
+   "name": "watch-test",
+   "expression": ["pcre", ".(js|css)$"],
+   "command": ["make"],
+   "stdout": ">watch-out.log"
+}]

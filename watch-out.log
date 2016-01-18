@@ -1,0 +1,4 @@
+node_modules/.bin/eslint *.js app/**
+node_modules/.bin/flow check
+
+Found 0 errors

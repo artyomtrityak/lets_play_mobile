@@ -1,0 +1,22 @@
+{
+  "name": "copyme",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "watch": "flow && watchman -j < watchman-run.json && tail -f watch-out.log",
+    "stop": "flow stop"
+  },
+  "dependencies": {
+    "react-native": "^0.17.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^3.15.0",
+    "events": "^1.1.0",
+    "flow-bin": "^0.20.1",
+    "flux": "^2.1.1",
+    "keymirror": "^0.1.1"
+  }
+}
