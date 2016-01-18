@@ -9,7 +9,7 @@
 
 ##How to setup
 - `npm install`
-- brew install watchman (if not installed yet with React Native)
+- `brew install watchman` (if not installed yet with React Native)
 - `npm start`
 - `npm run watch`
 - Open xcode project and launch Run
