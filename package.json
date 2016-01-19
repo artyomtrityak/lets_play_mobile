@@ -1,7 +1,8 @@
 {
-  "name": "copyme",
+  "name": "react-native-flowtype-flux",
   "version": "0.0.1",
   "private": true,
+  "author": "Artyom Trityak",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "watch": "flow && watchman -j < watchman-run.json && tail -f watch-out.log",
