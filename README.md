@@ -1,4 +1,4 @@
-#Let's play native mobiel app
+#React Native Flowtype Flux base setup
 
 ##Tech stack
 - React Native
