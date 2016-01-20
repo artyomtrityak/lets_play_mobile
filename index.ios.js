@@ -1,30 +1,26 @@
-/*@flow*/
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
+ * @flow
  */
 'use strict';
-
-var React = require('react-native');
-var {
+import React, {
   AppRegistry,
+  Component,
   StyleSheet,
   Text,
-  View,
-} = React;
+  View
+} from 'react-native';
 
 
+let x = (y : string) : number => {
+  console.log('hellp');
+  return y;
+};
 
 
-function test (t1 : number) : void {
-  console.log('ok');
-}
-
-test(2);
-
-
-var copyme = React.createClass({
-  render: function() {
+class react_native_flowtype_flux extends Component {
+  render() {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
@@ -40,9 +36,9 @@ var copyme = React.createClass({
       </View>
     );
   }
-});
+}
 
-var styles = StyleSheet.create({
+const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: 'center',
@@ -61,4 +57,4 @@ var styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('copyme', () => copyme);
+AppRegistry.registerComponent('react_native_flowtype_flux', () => react_native_flowtype_flux);

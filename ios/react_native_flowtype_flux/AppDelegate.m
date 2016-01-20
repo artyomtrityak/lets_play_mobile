@@ -42,7 +42,7 @@
 //   jsCodeLocation = [[NSBundle mainBundle] URLForResource:@"main" withExtension:@"jsbundle"];
 
   RCTRootView *rootView = [[RCTRootView alloc] initWithBundleURL:jsCodeLocation
-                                                      moduleName:@"copyme"
+                                                      moduleName:@"react_native_flowtype_flux"
                                                initialProperties:nil
                                                    launchOptions:launchOptions];
 

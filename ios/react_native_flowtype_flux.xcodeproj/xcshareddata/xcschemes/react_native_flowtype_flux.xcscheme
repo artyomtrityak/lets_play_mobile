@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "copyme.app"
-               BlueprintName = "copyme"
-               ReferencedContainer = "container:copyme.xcodeproj">
+               BuildableName = "react_native_flowtype_flux.app"
+               BlueprintName = "react_native_flowtype_flux"
+               ReferencedContainer = "container:react_native_flowtype_flux.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "copymeTests.xctest"
-               BlueprintName = "copymeTests"
-               ReferencedContainer = "container:copyme.xcodeproj">
+               BuildableName = "react_native_flowtype_fluxTests.xctest"
+               BlueprintName = "react_native_flowtype_fluxTests"
+               ReferencedContainer = "container:react_native_flowtype_flux.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "copymeTests.xctest"
-               BlueprintName = "copymeTests"
-               ReferencedContainer = "container:copyme.xcodeproj">
+               BuildableName = "react_native_flowtype_fluxTests.xctest"
+               BlueprintName = "react_native_flowtype_fluxTests"
+               ReferencedContainer = "container:react_native_flowtype_flux.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "copyme.app"
-            BlueprintName = "copyme"
-            ReferencedContainer = "container:copyme.xcodeproj">
+            BuildableName = "react_native_flowtype_flux.app"
+            BlueprintName = "react_native_flowtype_flux"
+            ReferencedContainer = "container:react_native_flowtype_flux.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "copyme.app"
-            BlueprintName = "copyme"
-            ReferencedContainer = "container:copyme.xcodeproj">
+            BuildableName = "react_native_flowtype_flux.app"
+            BlueprintName = "react_native_flowtype_flux"
+            ReferencedContainer = "container:react_native_flowtype_flux.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "copyme.app"
-            BlueprintName = "copyme"
-            ReferencedContainer = "container:copyme.xcodeproj">
+            BuildableName = "react_native_flowtype_flux.app"
+            BlueprintName = "react_native_flowtype_flux"
+            ReferencedContainer = "container:react_native_flowtype_flux.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

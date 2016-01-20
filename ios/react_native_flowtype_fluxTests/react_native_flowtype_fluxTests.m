@@ -16,11 +16,11 @@
 #define TIMEOUT_SECONDS 240
 #define TEXT_TO_LOOK_FOR @"Welcome to React Native!"
 
-@interface copymeTests : XCTestCase
+@interface react_native_flowtype_fluxTests : XCTestCase
 
 @end
 
-@implementation copymeTests
+@implementation react_native_flowtype_fluxTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {

@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.copyme">
+    package="com.react_native_flowtype_flux">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
