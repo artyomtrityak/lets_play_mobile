@@ -4,3 +4,7 @@
 - React Native
 - Flowtype
 - ESLint
+
+##How to run
+1. `npm start`
+2. `npm run watch`
